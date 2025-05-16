@@ -20,7 +20,7 @@ Each day, I push code, notes, and insights, building a robust foundation in Pyth
 
 ## 🌟 Why This Matters
 - **Consistency**: Daily commits showcase my discipline and growth mindset.
-- **Relevance**: Focused on AI skills (Python, ML, MLOps) demanded by Big Tech (Google, Meta) and startups (Grab, Shopee).
+- **Relevance**: Focused on AI skills (Python, ML, MLOps) demanded by Big Tech (Apple, Google, Meta) and startups (Grab, Shopee).
 - **Impact**: Building toward real-world AI projects (e.g., pose detection iOS app, Kaggle competitions).
 - **Global Aspiration**: Preparing for MS/PhD at top universities (NTU, MIT) and a career in Singapore/US.
 
